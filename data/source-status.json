@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-21T21:10:06.003733Z",
+  "generated_at": "2026-04-21T22:06:13.377801Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 517,
+      "duration_ms": 344,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 362,
+      "duration_ms": 420,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 322,
-      "duration_ms": 10733,
+      "duration_ms": 10097,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1311,
+      "duration_ms": 1094,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2900,
-      "duration_ms": 1392,
+      "item_count": 2884,
+      "duration_ms": 1395,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 63,
-      "duration_ms": 477,
+      "item_count": 60,
+      "duration_ms": 502,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 352,
+      "duration_ms": 278,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1557,
+      "duration_ms": 1505,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 233,
+      "duration_ms": 95,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,21 +78,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 138,
-      "duration_ms": 848,
+      "duration_ms": 525,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 1,
-      "item_count": 788,
-      "duration_ms": 1789,
-      "error": "1 feeds failed",
+      "partial_failures": 0,
+      "item_count": 1691,
+      "duration_ms": 2745,
+      "error": null,
       "feed_count": 3,
       "effective_feed_count": 3,
-      "ok_feed_count": 2,
-      "failed_feed_count": 1,
+      "ok_feed_count": 3,
+      "failed_feed_count": 0,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -102,18 +102,16 @@
     "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5382,
-  "items_before_topic_filter": 7790,
-  "items_in_24h": 956,
+  "fetched_raw_items": 6266,
+  "items_before_topic_filter": 7776,
+  "items_in_24h": 955,
   "rss_opml": {
     "enabled": true,
     "path": "feeds/follow.opml",
     "feed_total": 3,
     "effective_feed_total": 3,
-    "ok_feeds": 2,
-    "failed_feeds": [
-      "https://openai.com/news/rss.xml"
-    ],
+    "ok_feeds": 3,
+    "failed_feeds": [],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
@@ -126,7 +124,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 768,
-        "duration_ms": 386,
+        "duration_ms": 370,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -140,7 +138,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1298,
+        "duration_ms": 1668,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -152,10 +150,10 @@
         "feed_title": "OpenAI News",
         "feed_url": "https://openai.com/news/rss.xml",
         "effective_feed_url": "https://openai.com/news/rss.xml",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 105,
-        "error": "403 Client Error: Forbidden for url: https://openai.com/news/rss.xml",
+        "ok": true,
+        "item_count": 903,
+        "duration_ms": 707,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
