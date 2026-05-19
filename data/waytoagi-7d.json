@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-05-19T17:35:36.090713Z",
+  "generated_at": "2026-05-19T19:46:49.469698Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-19",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-05-19",
+      "title": "这篇文章带你从零开始，把一个能听懂自然语言、能自己写代码、能自动干活的 Claude code装到你电脑里，并用它做出第一个能跑、能用的产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-19",
       "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
@@ -19,7 +24,12 @@
     },
     {
       "date": "2026-05-19",
-      "title": "《",
+      "title": "在 Code with Claude 2026 技术分享里，GitHub 首席产品官 Mario Rodriguez 和 Anthropic Claude Platform 产品负责人 Brad Abrams，讲了一件很容易被普通用户忽略的事：当 Copilot 每天处理海量请求，AI 编程的难点已经从“模型会不会写代码”，推进到“平台能不能用可控成本、稳定延迟和可信评测支撑开发者持续工作”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "不少人用AI制作中文字体海报屡屡翻车，缺少视觉冲击力，问题根源往往不在模型能力，而是提示词过于笼统空洞。想要产出精致吸睛的字体视觉，必须精准细化各项细节。明确敲定字体样式、笔画粗细、字形结构、文字质感，再搭配适配的场景背景与光影氛围，就可以轻松做出质感出众、适配推文封面、宣传海报的高品质中文创意字体图。这篇文章给出了100个文字提示词，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-05-19",
+      "title": "这篇文章带你从零开始，把一个能听懂自然语言、能自己写代码、能自动干活的 Claude code装到你电脑里，并用它做出第一个能跑、能用的产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-19",
       "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
@@ -42,7 +57,12 @@
     },
     {
       "date": "2026-05-19",
-      "title": "《",
+      "title": "在 Code with Claude 2026 技术分享里，GitHub 首席产品官 Mario Rodriguez 和 Anthropic Claude Platform 产品负责人 Brad Abrams，讲了一件很容易被普通用户忽略的事：当 Copilot 每天处理海量请求，AI 编程的难点已经从“模型会不会写代码”，推进到“平台能不能用可控成本、稳定延迟和可信评测支撑开发者持续工作”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "不少人用AI制作中文字体海报屡屡翻车，缺少视觉冲击力，问题根源往往不在模型能力，而是提示词过于笼统空洞。想要产出精致吸睛的字体视觉，必须精准细化各项细节。明确敲定字体样式、笔画粗细、字形结构、文字质感，再搭配适配的场景背景与光影氛围，就可以轻松做出质感出众、适配推文封面、宣传海报的高品质中文创意字体图。这篇文章给出了100个文字提示词，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
